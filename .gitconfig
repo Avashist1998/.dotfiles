@@ -1,1 +1,7 @@
-/Users/abhayvashist/.gitconfig
+# This is Git's per-user configuration file.
+[user]
+	name = avashist
+	email = 36799410+Avashist1998@users.noreply.github.com
+	
+[core]
+	editor = code --wait
